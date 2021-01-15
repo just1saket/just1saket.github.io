@@ -11,7 +11,7 @@ title                    : "Saket Anand"
 title_separator          : "-"
 name                     : &name "Saket Anand"
 description              : &description "personal description"
-url                      : https://just1saket.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : "https://www.saketanand.com" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "just1saket/just1saket.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
@@ -57,7 +57,7 @@ yandex_site_verification :
 
 # Social Sharing
 twitter:
-  username               : &twitter "OMrAnand"
+  username               : &twitter "saketanand__"
 facebook:
   username               :
   app_id                 :
@@ -81,7 +81,7 @@ analytics:
 # Site Author
 author:
   name             : "Saket Anand"
-  avatar           : "profile.png"
+  avatar           : "profile.jpg"
   bio              : "Love to Code, Love to Innovate, Technology Guy, Optimistic & Intelligent"
   location         : "New Delhi"
   employer         :
@@ -98,7 +98,7 @@ author:
   github           : "just1saket"
   google_plus      :
   keybase          :
-  instagram        :
+  instagram        : "saketanand_"
   lastfm           :
   linkedin         : "saketanand"
   orcid            : # "http://orcid.org/yourorcidurl"
@@ -107,7 +107,7 @@ author:
   stackoverflow    : "5984446/saket-anand"
   steam            :
   tumblr           :
-  twitter          : "OMrAnand"
+  twitter          : "saketanand__"
   vine             :
   weibo            :
   xing             :
